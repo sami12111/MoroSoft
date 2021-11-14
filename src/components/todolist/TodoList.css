@@ -1,0 +1,20 @@
+.to-do-list-wrapper .row {
+}
+
+.to-do-list-wrapper .row .column {
+  border: 1px solid black;
+  margin: 0 3px;
+}
+
+.to-do-list-wrapper .row .column .column-heading h1 {
+  outline: none;
+  padding: 17px;
+}
+
+.to-do-list-wrapper .row .column .column-heading i {
+  cursor: pointer;
+  background-color: red;
+  color: white;
+  padding: 14px;
+  border-radius: 50%;
+}
